@@ -3,7 +3,8 @@
 A JSON parser is a software tool or library that reads JSON (JavaScript Object Notation) formatted text and converts it into a data structure that can be easily accessed and manipulated by a programming language. It breaks down the JSON text into meaningful components (like keys, values, arrays, and objects) and transforms them into native objects such as dictionaries, lists, or objects, allowing programs to use the data effectively.
 
 
-![App Screenshot](images/Screenshot.png)
+![App Screenshot](images/Code.png)
+![App Screenshot](images/Output.png)
 
 
 ## Getting Started
@@ -30,7 +31,7 @@ To run the tool in the terminal, use the following command:
 python3 json_parser.py --test
 
 
-You will be prompted to upload any `..test` file for word and character count analysis.
+You will be need as your choice alredy it comes with predefined fine change as per need in file and directory to upload any `..test` file .
 
 
 ## Contributing
