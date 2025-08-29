@@ -18,7 +18,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Clone the repository to your local machine:
 
-git clone https:https://github.com/OmRaj6666/Word_Counter_Tool.git
+git clone https://github.com/OmRaj6666/JSON-Parser.git
 
 IDE: VS CODE
 
