@@ -3,8 +3,8 @@
 A JSON parser is a software tool or library that reads JSON (JavaScript Object Notation) formatted text and converts it into a data structure that can be easily accessed and manipulated by a programming language. It breaks down the JSON text into meaningful components (like keys, values, arrays, and objects) and transforms them into native objects such as dictionaries, lists, or objects, allowing programs to use the data effectively.
 
 
-![App Screenshot](images/Code.png)
-![App Screenshot](images/Output.png)
+![App Screenshot](Images/code.png)
+![App Screenshot](Images/output.png)
 
 
 ## Getting Started
